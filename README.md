@@ -10,9 +10,9 @@ Information Engineering student at the Faculty of Technical Sciences in Novi Sad
 ## 💻 TechStack:
 * Git
 * Docker
-* ffmpeg, gdb, clangd, make
+* ffmpeg, gdb, clangd, make, npm, meson, SSH
 * curl, Insomnia, PostMan
-* tmux, neovim, VS code, i3, SSH
+* KDE, tmux, neovim, VS code, i3, alacritty
 * Python
     * ipython (ipynb)
     * numpy
